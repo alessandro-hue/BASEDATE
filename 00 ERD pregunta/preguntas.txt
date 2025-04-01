@@ -7,3 +7,7 @@ r: me resultaba algo interesante y curioso ver mas de dos id_usuario y cuando me
 
 
 rr: el tipo de dato TIYNIT es un tipo numerico exacto que almacena solo los numeros pequeño 
+
+
+rr:el createdes es la forma de registrar lo que se a creado adentro de la tabla, el modified registran la ultima vez que se modifico un dato o una tabla y los deleted son un tipo de marcadorr
+que fue eleminado en vez de eliminarlo fisicamente 
