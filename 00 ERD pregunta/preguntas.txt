@@ -1,4 +1,9 @@
 ¿Qué elementos o atributos ves que no conocías? 
 
-r: el atributo tiynit no lo sabia aun pero cuando me dijieron que era entendi como era se funcionaba y que era float
+r: el atributo tiynit no lo sabia aun pero cuando me dijieron que era entendi como era se funcionaba y que era float y para mi el create y modified son como dicen
+ crean nuevos usuarios y modifican los que ya estan
 r: el signo rojo que salia en algunas partes no sabia que era ese signo y me daria curosidad que es 
+r: me resultaba algo interesante y curioso ver mas de dos id_usuario y cuando me dijieron para que era entendi mejor para que era los dos id_usuario
+
+
+rr: el tipo de dato TIYNIT es un tipo numerico exacto que almacena solo los numeros pequeño 
